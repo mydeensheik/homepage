@@ -1,0 +1,20 @@
+html
+{
+	background:#111;
+}
+
+body
+{
+	background:white;
+	height:800px;
+	width:1000px;
+	margin:0 auto;
+}
+#header
+{
+	background:lightgreen;
+	color:#111;
+
+
+}
+	
